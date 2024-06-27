@@ -1,0 +1,8 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using MyUseElasticSearchAndKibanaAndSerilog.Core;
+global using MyUseElasticSearchAndKibanaAndSerilog.Core.Model;
+global using MyUseElasticSearchAndKibanaAndSerilog.Core.Repository;
+global using MyUseElasticSearchAndKibanaAndSerilog.Data;
+global using MyUseElasticSearchAndKibanaAndSerilog.Repositories;
+global using System.Linq.Expressions;
